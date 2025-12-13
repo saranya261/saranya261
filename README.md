@@ -1,16 +1,24 @@
 ## Hi there 👋
+ I'm Saranya 
 
-<!--
-**saranya261/saranya261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a **second-year B.Tech CSE student** passionate about **AI and Machine Learning, and Web Development**. I love building projects that solve real-world problems and contribute to meaningful causes.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: **AI/ML, Web Development, and  DSA**
+- 💻 Languages & Tools: **C, Python, HTML, CSS, JavaScript,cpp
+- 🏗️ Projects: **Cancer Detection System using AI**, Web development projects, and more
+- 🎯 Goal: Secure **internships in AI/ML** and contribute to impactful open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Work
+Library Management with cpp
+Student record management system with C
+
+## Connect with Me
+- LinkedIn: www.linkedin.com/in/saranya-reddy-chamala-3930a5324
+- GitHub: (https://github.com/saranya261)
+- Email: (mailto:saranyareddychamala@gmail.com)
+
+---
+
+**"Code. Learn. Build. Repeat."**
+
