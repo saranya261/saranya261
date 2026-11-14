@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b4c,100:1e90ff&height=180&section=header" width="100%" alt="banner" />
+  <img src="banner.jpg" width="100%" alt="banner" />
 </p>
 
 <h1 align="center">Hi there 👋 I'm Saranya</h1>
