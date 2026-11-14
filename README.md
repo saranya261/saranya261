@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header" width="100%" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b4c,100:1e90ff&height=180&section=header" width="100%" alt="banner" />
 </p>
 
 <h1 align="center">Hi there 👋 I'm Saranya</h1>
@@ -61,12 +61,6 @@ Right now I'm practicing **DSA in C++**.
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/saranya261?style=for-the-badge&logo=github&color=2c5364" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/saranya261?style=for-the-badge&logo=github&color=2c5364&affiliations=OWNER" alt="Stars" />
-  <img src="https://komarev.com/ghpvc/?username=saranya261&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=saranya261&theme=tokyonight&hide_border=false&border_radius=6" alt="GitHub streak stats" />
