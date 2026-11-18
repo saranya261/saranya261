@@ -11,7 +11,7 @@
 
 I'm a third-year **B.Tech CSE** student at **SRM University, Andhra Pradesh** (CGPA 9.58), passionate about **AI & Machine Learning**. I love building projects that solve real-world problems and contribute to meaningful causes.
 
-Right now I'm practicing **DSA in C++**.
+Right now I'm  practicing **DSA in C++**.
 
 **🛠 Tech Stack**
 
